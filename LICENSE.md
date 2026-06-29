@@ -1,4 +1,4 @@
-# 
+# Oficial AI Fake News Detector plugins. Com tomada de decisão automatizada e redes neurais — otimizado para máximo desempenho.
 
 
 
